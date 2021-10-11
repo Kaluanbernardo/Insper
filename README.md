@@ -1,2 +1,2 @@
 # Insper
-Projects created on a Master Degree in Data driven journalism
+Aqui ficarão os projetos criados durante o Master de Jornalismo de Dados do Insper.
